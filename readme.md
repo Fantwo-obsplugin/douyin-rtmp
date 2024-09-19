@@ -1,6 +1,6 @@
-本插件是obs-studio的抖音推流插件，可由插件获取抖音推流码实现抖音直播，支持手机直播和PC的抖音伴侣。  
-如果没有安装obs-studio，可前往[官网](https://obsproject.com/)自行安装下载。  
-官网有更多插件支持使用，访问[FanTwo官网](https://www.fantwo.cc)获取更多插件。
+    本插件是obs-studio的抖音推流插件，可由插件获取抖音推流码实现抖音直播，支持手机直播和PC的抖音伴侣。  
+    如果没有安装obs-studio，可前往[官网](https://obsproject.com/)自行安装下载。  
+    官网有更多插件支持使用，访问[FanTwo官网](https://www.fantwo.cc)获取更多插件。
 
 - 支持手机直播（无PC端直播权限）
 - 支持PC端直播
